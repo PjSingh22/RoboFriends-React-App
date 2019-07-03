@@ -1,3 +1,7 @@
+<h1>RoboFriends React App</h1>
+
+Functioning search application with scroll functionalty that uses React.js to manipulate the virtual dom and render cards using jsonplaceholder api. 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
