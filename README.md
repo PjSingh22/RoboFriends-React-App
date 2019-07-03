@@ -10,7 +10,7 @@ Run npm install in terminal to download packages
 
 Run npm start in terminal to have the project show up in your browser on a live server.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+*This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).*
 
 ## Available Scripts
 
