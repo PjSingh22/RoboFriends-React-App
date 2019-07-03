@@ -4,11 +4,11 @@ Functioning search application with scroll functionalty that uses React.js to ma
 
 <h2>To run the project</h2>
 
-Clone this repo
+1. Clone this repo.
 
-Run npm install in terminal to download packages
+2. Run npm install in terminal. (to download packages.)
 
-Run npm start in terminal to have the project show up in your browser on a live server.
+3. Run npm start in terminal. (to have the project show up in your browser on a live server.)
 
 *This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).*
 
